@@ -23,6 +23,7 @@
 - [acot](https://github.com/acot-a11y/acot)
 - [pa11y](https://github.com/pa11y/pa11y)
 gitlabが使っている https://docs.gitlab.com/ee/user/project/merge_requests/accessibility_testing.html
+- [The best web accessibility tools for developers in 2021](https://dev.to/jaketracey/the-best-web-accessibility-tools-for-developers-in-2021-8c8)
 
 
 ## このレポジトリを作ったときに考えていたこと
