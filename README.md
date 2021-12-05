@@ -21,6 +21,7 @@
 ### ツール、紹介ブログ
 - [storybooks-addon-a11y](https://github.com/storybookjs/storybook/tree/next/addons/a11y)
 - [acot](https://github.com/acot-a11y/acot)
+- [pa11y](https://github.com/pa11y/pa11y)
 
 
 ## このレポジトリを作ったときに考えていたこと
