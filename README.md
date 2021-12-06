@@ -22,6 +22,7 @@
 - [storybooks-addon-a11y](https://github.com/storybookjs/storybook/tree/next/addons/a11y)
 - [acot](https://github.com/acot-a11y/acot)
 - [pa11y](https://github.com/pa11y/pa11y)
+- [ウェブアクセシビリティを理解する #a11y](https://note.com/a11ytips_note/m/m5df597962def)
 
 gitlabが使っている https://docs.gitlab.com/ee/user/project/merge_requests/accessibility_testing.html
 
