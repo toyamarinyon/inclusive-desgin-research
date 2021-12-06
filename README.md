@@ -15,14 +15,16 @@
 
 ## リンク
 ### 読書メモ
-[『Google流 ダイバーシティ＆インクルージョン　インクルーシブな製品開発のための方法と実践/アニー・ジャン＝バティスト』](https://github.com/toyamarinyon/inclusive-desgin-research/blob/main/books/building-for-everyone.md)
-[ミスマッチ　見えないユーザーを排除しない「インクルーシブ」なデザインへ/キャット・ホームズ (著), ジョン・マエダ (編集) 読書メモ](https://github.com/toyamarinyon/inclusive-desgin-research/blob/main/books/mismatch.md)
+- [『Google流 ダイバーシティ＆インクルージョン　インクルーシブな製品開発のための方法と実践/アニー・ジャン＝バティスト』](https://github.com/toyamarinyon/inclusive-desgin-research/blob/main/books/building-for-everyone.md)
+- [ミスマッチ　見えないユーザーを排除しない「インクルーシブ」なデザインへ/キャット・ホームズ (著), ジョン・マエダ (編集) 読書メモ](https://github.com/toyamarinyon/inclusive-desgin-research/blob/main/books/mismatch.md)
 
 ### ツール、紹介ブログ
 - [storybooks-addon-a11y](https://github.com/storybookjs/storybook/tree/next/addons/a11y)
 - [acot](https://github.com/acot-a11y/acot)
 - [pa11y](https://github.com/pa11y/pa11y)
+
 gitlabが使っている https://docs.gitlab.com/ee/user/project/merge_requests/accessibility_testing.html
+
 - [The best web accessibility tools for developers in 2021](https://dev.to/jaketracey/the-best-web-accessibility-tools-for-developers-in-2021-8c8)
 
 
