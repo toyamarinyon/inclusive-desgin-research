@@ -23,6 +23,7 @@
 - [acot](https://github.com/acot-a11y/acot)
 - [pa11y](https://github.com/pa11y/pa11y)
 - [ウェブアクセシビリティを理解する #a11y](https://note.com/a11ytips_note/m/m5df597962def)
+- [メルカリが語るD&Iのリアル。「草の根活動」が経営戦略に変わるまで](https://www.msn.com/ja-jp/news/money/%E3%83%A1%E3%83%AB%E3%82%AB%E3%83%AA%E3%81%8C%E8%AA%9E%E3%82%8Bd-i%E3%81%AE%E3%83%AA%E3%82%A2%E3%83%AB-%E8%8D%89%E3%81%AE%E6%A0%B9%E6%B4%BB%E5%8B%95-%E3%81%8C%E7%B5%8C%E5%96%B6%E6%88%A6%E7%95%A5%E3%81%AB%E5%A4%89%E3%82%8F%E3%82%8B%E3%81%BE%E3%81%A7/ar-AAPvBv8)
 
 gitlabが使っている https://docs.gitlab.com/ee/user/project/merge_requests/accessibility_testing.html
 
